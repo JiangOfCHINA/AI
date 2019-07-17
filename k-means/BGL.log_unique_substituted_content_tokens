@@ -1,0 +1,741 @@
+r16 = $NUM r17 = $NUM r18 = $NUM r19 = $NUM
+Expected $NUM active FanModules , but found $NUM ( Found J300 J301 J302 J303 J304 J305 J306 J307 J308 ) .
+machine check interrupt ( bit = $NUM ) : L3 major internal error
+idoproxydb has been started : $Name : DRV142_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+instruction TLB error interrupt
+PrepareForService is being done on this rack ( $RACK_ID ) by orbeck1
+machine check interrupt
+underflow exception......................$NUM
+enable non-IEEE mode.....................$NUM
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Mon $NUM $NUM $NUM:$NUM:$NUM PST $NUM
+tlb error.........................$NUM
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ Y+ Y- Z+ Z-
+EndServiceAction $NUM performed upon $MIDPLANE_ID by orbeck1
+EndServiceAction $NUM was performed upon $LINK_ID by pjmccart
+external input interrupt ( unit = $NUM bit = $NUM ) : torus sender z+ retransmission error was corrected
+ciod : Error loading a.out : invalid or missing program image , No such file or directory
+disable write lines $NUM:$NUM..................$NUM
+ciod : generated $NUM core files for program IMB-MPI1.2MB_perf
+Expected $NUM active FanModules , but found $NUM ( Found J300 J301 J302 J303 J304 J306 J307 J308 J309 ) .
+ciod : Message code $NUM is not $NUM or $NUM
+ciod : Error loading $FILE_PATHs//torus-latency.rts : invalid or missing program image , No such file or directory
+floating point instr . enabled.....$NUM
+idoproxy communication failure : BGLERR_IDO_PKT_TIMEOUT connection lost to $FILE_PATH card
+X+ X- Y+ Z-
+rts $FILE_PATH link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X- Y+ Z+ Z-
+L3 global control register : $NUM
+byte ordering exception.....................$NUM
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Tue Sep $NUM $NUM:$NUM:$NUM PDT $NUM
+CHECK_INITIAL_GLOBAL_INTERRUPT_VALUES
+rts $FILE_PATH link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X+ X- Y+ Z-
+program interrupt : fp cr update.............$NUM
+X- Y- Z+ Z-
+data address : $NUM
+quiet NaN................................$NUM
+read timeout ( mc = e08x iar $NUM lr $NUM )
+problem state ( $NUM = sup,$NUM = usr ) ....... $NUM
+round toward +infinity...................$NUM
+memory manager / command manager address parity..$NUM
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Mon Nov $NUM $NUM:$NUM:$NUM PST $NUM
+correctable error detected in EDRAM bank $NUM.....$NUM
+memory manager strobe gate.......................$NUM
+Lustre mount FAILED : $BGL_IO_ID : block_id : location
+Node card status : ALERT $NUM , ALERT $NUM , ALERT $NUM , ALERT $NUM is ( are ) active . Clock Mode is Low . Clock Select is Midplane . Phy JTAG Reset is asserted . ASIC JTAG Reset is not asserted . Temperature Mask is not active . No temperature error . Temperature Limit Error Latch is clear . PGOOD is asserted . PGOOD error latch is clear . MPGOOD is OK . MPGOOD error latch is clear . The $NUM.$NUM volt rail is OK . The $NUM.$NUM volt rail is OK .
+external input interrupt ( unit = $NUM bit = $NUM ) : 1M tree receiver $NUM in resynch mode
+$NUM torus processor sram reception error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+PrepareForService is being done on this Midplane ( mLctn ( $MIDPLANE_ID ) , mCardSernum ( $NUM )) by root
+$NUM microseconds spent in the rbs signal handler during $NUM calls . $NUM microseconds was the maximum time for a single instance of a correctable ddr .
+invalid operation exception summary......$NUM
+ddr : Unable to steer rank = $NUM , symbol = $NUM - rank is already steering symbol $NUM . Due to multiple symbols being over the correctabl
+$NUM cable going into LinkCard ( $NUM ) Jtag ( $NUM ) Port ( C ) - $NUM $NUM wires
+ciod : Missing or invalid fields on line $NUM of node map file $FILE_PATH
+Power Good signal deactivated : $MIDPLANE_ID-N15 . A service action may $NUM required .
+memory manager miscompare........................$NUM
+parity error in read queue $NUM...................$NUM
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for tree $NUM wire
+fpr20 = $NUM $NUM $NUM $NUM
+ACTIVE . The $NUM.$NUM volt rail is OK . The $NUM.$NUM volt rail is OK .
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ Y- Z+
+$NUM torus sender y- retransmission error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+invalid ( $FILE_PATH ) ...................... $NUM
+fraction inexact.........................$NUM
+external input interrupt ( unit = $NUM bit = $NUM ) : number of corrected SRAM errors has exceeded threshold , suppressing further interrupts of same type
+MidplaneSwitchController::sendTrain () port disconnected : $LINK_ID-$NODE_NO-E
+symbol................$NUM
+monitor caught java.lang.IllegalStateException : while executing CONTROL Operation caught java.io.EOFException and is stopping
+command manager unit summary.....................$NUM
+MidplaneSwitchController::clearPort () bll_clear_port failed : $LINK_ID-$NODE_NO-A
+NodeCard VPD is corrupt
+rts $FILE_PATH link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C X+ Y- Z-
+idoproxydb has been started : $Name : DRV460_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+fpr24 = $NUM $NUM $NUM $NUM
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Wed Jul $NUM $NUM:$NUM:$NUM PDT $NUM
+round toward -infinity...................$NUM
+ciod : Error loading pr%nlev : invalid or missing program image , No such file or directory
+data store interrupt caused by $NUM.........$NUM
+$NUM torus receiver x+ input pipe error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+overflow exception.......................$NUM
+turn on hidden refreshes.................$NUM
+ddr : excessive soft failures , consider replacing the card
+$NUM:$NUM $NUM:$NUM $NUM:$NUM $NUM:$NUM
+Power Good signal deactivated : $MIDPLANE_ID-N14 . A service action may $NUM required .
+PrepareForService is being done on this Midplane ( mLctn ( $MIDPLANE_ID ) , mCardSernum ( $NUM )) by gooding3
+MidplaneSwitchController::receiveTrain () iap failed : $LINK_ID-$NODE_NO-A , status = $NUM $NUM
+$NUM
+minus inf................................$NUM
+number of lines with parity errors written to L3 EDRAMs...$NUM
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Tue Jun $NUM $NUM:$NUM:$NUM PDT $NUM
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for torus z+ wire
+data write plb error..............$NUM
+rts assertion failed : `vaddr % PAGE_SIZE_1M == $NUM' in `int initializeAppMemory ( int , TLBEntry& , unsigned int , unsigned int ) ' at mmu.$NUM:$NUM
+Core Configuration Register $NUM : $NUM
+plus denormalized number.................$NUM
+$NUM torus receiver sram $NUM error ( s ) ( dcr $NUM ) detected and corrected
+Machine State Register : $NUM
+program interrupt : trap instruction.........$NUM
+rts $FILE_PATH link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X+ X- Y- Z-
+mmcs_db_server has been started : $FILE_PATH --useDatabase BGL --dbproperties serverdb.properties --iolog $FILE_PATH --reconnect-blocks all --shutdown-timeout $NUM
+gister : machine state register : machine state register : machine state register : machine state register : machine state register :
+external input interrupt ( unit = $NUM bit = $NUM ) : torus sender x- retransmission error was corrected
+$NUM L3 EDRAM error ( s ) ( dcr $NUM ) detected and corrected
+While setting fan speed caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+ddr : Suppressing further $NUM interrupts
+While initializing service card iDo with LP of $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM caught java.io.IOException : Could not contact iDo with LP = $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM and IP = /$IPADDR because java.lang.RuntimeException : Communication error : ( DirectIDo for Uninitialized DirectIDo for $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM@/$IPADDR is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = $NUM , Reply Sequence Number = -$NUM , timedOut = true , retries = $NUM , timeout = $NUM , Expected Op Command = $NUM , Actual Op Reply = -$NUM , Expected Sync Command = $NUM , Actual Sync Reply = -$NUM )
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Mon Jun $NUM $NUM:$NUM:$NUM PDT $NUM
+rts : $NUM message header : packet index $NUM greater than max $NUM ( softheader = $NUM $NUM $NUM $NUM ) PSR0 = $NUM PSR1 = $NUM PRXF = $NUM PIXF = $NUM
+X+ X- Y+ Z+ Z-
+Kernel detected $NUM integer alignment exceptions ( $NUM ) iar $NUM , dear $NUM ( $NUM ) iar $NUM , dear $NUM ( $NUM ) iar $NUM , dear $NUM ( $NUM ) iar $NUM , dear $NUM ( $NUM ) iar $NUM , dear $NUM ( $NUM ) iar $NUM , dear $NUM ( $NUM ) iar $NUM , dear $NUM ( $NUM ) iar $NUM , dear $NUM
+memory manager refresh...........................$NUM
+$NUM cable going into LinkCard ( $NUM ) Jtag ( $NUM ) Port ( D ) - $NUM $NUM wires
+Power deactivated : $NODEBOARD_ID
+d-cache search parity error.......$NUM
+mmcs_server exited abnormally due to signal : Segmentation fault
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Fri Jul $NUM $NUM:$NUM:$NUM PDT $NUM
+floating point operation....................$NUM
+idoproxydb has been started : $Name : DRV202_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+program interrupt : fp compare...............$NUM
+external input interrupt enable...$NUM
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for torus y- wire
+$NUM torus sender z- retransmission error ( s ) ( dcr $NUM ) detected and corrected
+ciod : Received signal $NUM , code = $NUM , errno = $NUM , address = $NUM
+ciod : In packet from node $NUM.$NUM ( $NODE_ID ) , message code $NUM is not $NUM or $NUM ( softheader = $NUM $NUM $NUM $NUM )
+EndServiceAction $NUM performed upon $NODEBOARD_ID by bwallen
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Wed Nov $NUM $NUM:$NUM:$NUM PST $NUM
+Target = ido://F$FILE_PATH Message = ScomError
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Fri Jun $NUM $NUM:$NUM:$NUM PDT $NUM
+ciod : Error loading $FILE_PATH invalid or missing program image , No such file or directory
+ciod : Error creating node map from file $FILE_PATH Block device required
+rts : $NUM message header : cpu $NUM invalid ( softheader = $NUM $NUM $NUM $NUM ) PSR0 = $NUM PSR1 = $NUM PRXF = $NUM PIXF = $NUM
+PrepareForService is being done on this card ( mLctn ( $NODEBOARD_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) by root
+idoproxydb has been started : $Name : V1R1M2_255_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+EndServiceAction $NUM performed upon $MIDPLANE_ID by gooding3
+fpr23 = $NUM $NUM $NUM $NUM
+machine check summary.............$NUM
+While reading FanModule caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+ddr : activating redundant bit steering for next allocation : rank = $NUM symbol = $NUM
+start flushing...........................$NUM
+ddr : activating redundant bit steering : rank = $NUM symbol = $NUM
+rts internal error
+ciod : Error creating node map from file $FILE_PATH No child processes
+rts : $NUM message header : expecting type $NUM instead of type $NUM ( softheader = $NUM $NUM $NUM $NUM ) PSR0 = $NUM PSR1 = $NUM PRXF = $NUM PIXF = $NUM
+data cache search parity error detected . attempting to correct
+d-cache flush parity error........$NUM
+ciod : In packet from node $NUM.$NUM ( $MIDPLANE_ID-Na-C:$SLOT_NO-$NODE_NO ) , message code $NUM is not $NUM or $NUM ( softheader = $NUM $NUM $NUM $NUM )
+EndServiceAction $NUM performed upon $MIDPLANE_ID-N by root
+mmcs_db_server has been started : $FILE_PATH --useDatabase BGL --dbproperties serverdb.properties --iolog $FILE_PATH --reconnect-blocks all
+uncorrectable error detected in external DDR...$NUM
+ciod : Error creating node map from file $FILE_PATH Cannot allocate memory
+enable inexact exceptions................$NUM
+inexact exception........................$NUM
+store operation.............................$NUM
+fpr2 = $NUM $NUM $NUM $NUM
+fpr29 = $NUM $NUM $NUM $NUM
+memory manager store buffer parity...............$NUM
+Can not get assembly information for node card
+VALIDATE_LOAD_IMAGE_CRC_IN_DRAM
+number of correctable errors detected in L3 EDRAMs........$NUM
+General Purpose Registers :
+$NUM torus sender y+ retransmission error ( s ) ( dcr $NUM ) detected and corrected
+enable overflow exceptions...............$NUM
+external input interrupt ( unit = $NUM bit = $NUM ) : uncorrectable torus error
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for torus z- wire
+$NUM torus sender z+ retransmission error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+chip select...........$NUM
+idoproxydb has been started : $Name : V1R1M0_241_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+fpr25 = $NUM $NUM $NUM $NUM
+LinkCard power module $NODE_NO is not accessible
+EndServiceAction $NUM performed upon $MIDPLANE_ID by root
+icache prefetch depth....................$NUM
+parity error in read queue PLB.................$NUM
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for tree $NUM wire , suppressing further interrupts of same type
+Error receiving packet on tree network , packet index $NUM greater than max $NUM ( softheader = $NUM $NUM $NUM $NUM ) PSR0 = $NUM PSR1 = $NUM PRXF = $NUM PIXF = $NUM
+Power Good signal deactivated : $MIDPLANE_ID-N13 . A service action may $NUM required .
+ciod : Error reading message prefix after LOGIN_MESSAGE on CioStream socket to $IPADDR:$NUM : Link has been severed
+ciod : In packet from node $NUM.$NUM ( $MIDPLANE_ID-Nc-C:$SLOT_NO-$NODE_NO ) , message code $NUM is not $NUM or $NUM ( softheader = $NUM $NUM $NUM $NUM )
+ciod : Error creating node map from file my_map.txt : No such file or directory
+fpr1 = $NUM $NUM $NUM $NUM
+PrepareForService is being done on this Midplane ( mLctn ( $MIDPLANE_ID ) , mCardSernum ( $NUM ) , iWhichCardsToPwrOff ( $NUM )) by root
+idoproxy exited normally with exit code $NUM
+state register : machine state register : machine state register : machine state register : machine state register : machine state re
+ciod : Error loading verbose : invalid or missing program image , No such file or directory
+ciod : Error loading $FILE_PATH invalid or missing program image , Exec format error
+invalid ( compare ) ........................ $NUM
+external input interrupt ( unit = $NUM bit = $NUM ) : torus sender x+ retransmission error was corrected
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ Y+ Z+
+While setting fan speed caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+rts $FILE_PATH link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C X+ Y+ Y- Z+ Z-
+ciod : Error loading $FILE_PATH -n $NUM : invalid or missing program image , No such file or directory
+While initializing node card , ido with LP of $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM caught java.lang.IllegalStateException : while executing CONTROL Operation caught java.lang.RuntimeException : Communication error : ( DirectIDo for com.ibm.ido.DirectIDo object [ $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM@/$IPADDR with image version $NUM and card type $NUM ] is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = $NUM , Reply Sequence Number = -$NUM , timedOut = true , retries = $NUM , timeout = $NUM , Expected Op Command = $NUM , Actual Op Reply = -$NUM , Expected Sync Command = $NUM , Actual Sync Reply = -$NUM )
+idoproxydb has been started : $Name : V1R2M0_480_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+rts : kernel terminated for reason 1002rts : $NUM message header : too many packets , type = $NUM , cpu = $NUM , index = $NUM , total = $NUM , ma
+power module status fault detected on node card . status registers are : $FILE_PATH
+capture first DDR uncorrectable error address..$NUM
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Fri $NUM $NUM $NUM:$NUM:$NUM PST $NUM
+ciod : LOGIN open ( $FILE_PATH ) failed : Permission denied
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Thu Nov $NUM $NUM:$NUM:$NUM PST $NUM
+round toward zero........................$NUM
+ciod : duplicate canonical-rank $NUM to logical-rank $NUM mapping at line $NUM of node map file $FILE_PATH
+Node card VPD check : $NODE_NO node in processor card slot $SLOT_NO do not match . VPD ecid $NUM , found $NUM
+ciod : LOGIN chdir ( $FILE_PATHN///$DATETIME ) failed : No such file or directory
+fpr6 = $NUM $NUM $NUM $NUM
+Power Good signal deactivated : $MIDPLANE_ID-N12 . A service action may $NUM required .
+ciod : Error opening node map file $FILE_PATH , No such file or directory
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for torus z+ wire , suppressing further interrupts of same type
+ciod : Error creating node map from file $FILE_PATH Resource temporarily unavailable
+uncorrectable error detected in EDRAM bank $NUM...$NUM
+Error receiving packet on tree network , expecting type $NUM instead of type $NUM ( softheader = $NUM $NUM $NUM $NUM ) PSR0 = $NUM PSR1 = $NUM PRXF = $NUM PIXF = $NUM
+memory and bus summary...........................$NUM
+mmcs_db_server has been started : $FILE_PATH --useDatabase BGL --dbproperties $NUM.properties --iolog $FILE_PATH --reconnect-blocks all
+invalid operation exception ( software ) ... $NUM
+ciod : generated $NUM core files for program IMB-MPI1.2KB
+divide-by-zero exception.................$NUM
+icache prefetch threshold................$NUM
+r00 = $NUM r01 = $NUM r02 = $NUM r03 = $NUM
+ciod : LOGIN chdir ( $FILE_PATH ) failed : No such file or directory
+$NUM L3 directory error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+fpr19 = $NUM $NUM $NUM $NUM
+ciodb exited normally with exit code $NUM
+r28 = $NUM r29 = $NUM r30 = $NUM r31 = $NUM
+While initializing node card , ido with LP of $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM caught java.lang.IllegalStateException : IDo is not in functional state -- currently in state COMMUNICATION_ERROR
+machine check register : $NUM $NUM
+debug wait enable.................$NUM
+idoproxydb has been started : $Name : V1R1M0_244_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+Target = ido://F$FILE_PATH Message = Pll failed to lock
+$NUM , max = $NUM
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Thu Aug $NUM $NUM:$NUM:$NUM PDT $NUM
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X- Y+ Y- Z-
+BGLMaster has been started : $FILE_PATH --consoleip $IPADDR --consoleport $NUM --configfile bglmaster.init --autorestart y
+rts $FILE_PATH link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C X+ X- Y- Z+ Z-
+X- Y+ Z+ Z-
+$NUM torus receiver y+ input pipe error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+EndServiceAction is restarting the NodeCards in midplane $MIDPLANE_ID as part of Service Action $NUM
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for torus x+ wire
+this link card is not fully functional
+PrepareForService is being done on this part ( mLctn ( $NODEBOARD_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) by root
+round nearest............................$NUM
+$NUM torus sender x+ retransmission error ( s ) ( dcr $NUM ) detected and corrected
+ciod : LOGIN chdir ( $FILE_PATH ) failed : $FILE_PATH error
+Temperature Over Limit on link card
+ciod : Error reading message prefix after LOGIN_MESSAGE on CioStream socket to $IPADDR : Link has been severed
+disable speculative access...............$NUM
+parity error.......$NUM
+plus normalized number...................$NUM
+invalid ( SNAN ) ........................... $NUM
+ciod : generated $NUM core files for program $FILE_PATH
+ciod : Z coordinate $NUM exceeds physical dimension $NUM at line $NUM of node map file map.dat
+X- Y+ Z+
+$NUM torus receiver x- input pipe error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+capture first directory uncorrectable error address..$NUM
+invalid ( $FILE_PATH ) ........................ $NUM
+rts $FILE_PATH link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C X+ X- Y- Z-
+rts $FILE_PATH link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C X- Y+ Y- Z+
+Hardware monitor caught java.lang.IllegalStateException : while executing I2C Operation caught java.net.SocketException : Broken pipe and is stopping
+X+ X- Y- Z+
+disable apu instruction broadcast........$NUM
+fpr3 = $NUM $NUM $NUM $NUM
+ciod : Error loading main3d : invalid or missing program image , No such file or directory
+idoproxydb hit ASSERT condition : ASSERT expression = pTargetMgr Source file = idoclientmgr.cpp Source line = $NUM Function = int IdoClientMgr::TargetClose ( const char* )
+debug interrupt enable............$NUM
+MailboxMonitor::serviceMailboxes () lib_ido_error : -$NUM BGLERR_IDO_PKT_TIMEOUT connection lost to $FILE_PATH card
+ax = $NUM
+write IRQ ( mc = 1b08x iar $NUM lr $NUM )
+ciod : generated $NUM core files for program IMB-MPI1.256B_perf
+enable invalid operation exceptions......$NUM
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for torus y+ wire , suppressing further interrupts of same type
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for torus x+ wire , suppressing further interrupts of same type
+x = $NUM
+PrepareForService is being done on this part ( mLctn ( $NODEBOARD_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) by bwallen
+While setting fan speed caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+external input interrupt ( unit = $NUM bit = $NUM ) : torus sender y+ retransmission error was corrected
+MailboxMonitor::serviceMailboxes () lib_ido_error : -$NUM socket closed
+ciod : sendMsgToDebugger : error sending PROGRAM_EXITED message to debugger .
+ciod : X coordinate $NUM exceeds physical dimension $NUM at line $NUM of node map file $FILE_PATH
+fraction rounded.........................$NUM
+program
+ciod : generated $NUM core files for program $FILE_PATH$D$FILE_PATH
+memory manager uncorrectable error...............$NUM
+floating pt ex mode $NUM enable......$NUM
+failing address register : $NUM $NUM
+mask..................$NUM
+ciod : Error loading $FILE_PATH invalid or missing program image , No such device
+plus zero................................$NUM
+minus zero...............................$NUM
+Power Good signal deactivated : $NODEBOARD_ID . A service action may $NUM required .
+ciod : Error reading message prefix after UNKNOWN on CioStream socket to $IPADDR : Link has been severed
+interrupt threshold...$NUM
+ddr : redundant bit steering failed , sequencer timeout
+data read plb error...............$NUM
+X- Y+ Y- Z+
+EndServiceAction $NUM performed upon $NODEBOARD_ID by gooding3
+$NUM L3 directory error ( s ) ( dcr $NUM ) detected and corrected
+machine check interrupt ( bit = $NUM ) : L2 dcache unit data parity error
+capture valid.........$NUM
+ciod : LOGIN chdir ( $FILE_PATH ) failed : Permission denied
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ X- Y- Z+ Z-
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Fri Sep $NUM $NUM:$NUM:$NUM PDT $NUM
+idoproxydb has been started : $Name : DRV141_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+floating point unavailable interrupt
+Local PGOOD error latched on link card
+$NUM torus sender x- retransmission error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+mmcs_db_server has been started : $FILE_PATH --useDatabase BGL --dbproperties $NUM.properties --iolog $FILE_PATH --reconnect-blocks all --shutdown-timeout $NUM --shutdown-timeout $NUM
+EndServiceAction $NUM performed upon $NODEBOARD_ID by smith386
+Floating Point Registers :
+While inserting monitor info into $NUM caught java.lang.NullPointerException
+PrepareForService is being done on this Midplane ( mLctn ( $MIDPLANE_ID ) , mCardSernum ( $NUM )) by pjmccart
+idoproxydb has been started : $Name : V1R2M0_500_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+EndServiceAction is restarting the Link cards in Midplane $MIDPLANE_ID as part of Service Action $NUM
+monitor caught java.lang.IllegalStateException : while executing CONTROL Operation caught java.net.SocketException : Broken pipe and is stopping
+data address space................$NUM
+Error getting detailed hw info for node , caught java.io.IOException : Problems with the chip , could not enable clock domains
+start initialization.....................$NUM
+failing data registers : $NUM $NUM
+fpr16 = $NUM $NUM $NUM $NUM
+invalid ( $FILE_PATH ) ....................... $NUM
+Controlling $FILE_PATH rows [ $NUM $NUM $NUM $NUM $NUM $NUM $NUM $NUM ]
+EndServiceAction $NUM was performed upon $LINK_ID by root
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ Y+ Z+ Z-
+generating core.$NUM
+idoproxydb has been started : $Name : V1R1M0_249_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Mon Aug $NUM $NUM:$NUM:$NUM PDT $NUM
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X- Y+ Y- Z+ Z-
+X+ X- Y+ Y- Z+
+ciod : for node $NUM , read continuation request but ioState is $NUM
+machine check enable..............$NUM
+data TLB error interrupt
+ciod : Error creating node map from file $FILE_PATH $NUM address
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Sun Aug $NUM $NUM:$NUM:$NUM PDT $NUM
+Special Purpose Registers :
+memory manager address error.....................$NUM
+LinkCard is not fully functional
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Wed Oct $NUM $NUM:$NUM:$NUM PDT $NUM
+While initializing node card , ido with LP of $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.RuntimeException : Communication error : ( DirectIDo for com.ibm.ido.DirectIDo object [ $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM@/$IPADDR with image version $NUM and card type $NUM ] is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = $NUM , Reply Sequence Number = -$NUM , timedOut = true , retries = $NUM , timeout = $NUM , Expected Op Command = $NUM , Actual Op Reply = -$NUM , Expected Sync Command = $NUM , Actual Sync Reply = -$NUM )
+Problem communicating with service card , ido chip : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM . java.lang.IllegalStateException : while executing CONTROL Operation caught java.lang.RuntimeException : Communication error : ( DirectIDo for com.ibm.ido.DirectIDo object [ $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM@/$IPADDR with image version $NUM and card type $NUM ] is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = $NUM , Reply Sequence Number = $NUM , timedOut = true , retries = $NUM , timeout = $NUM , Expected Op Command = $NUM , Actual Op Reply = $NUM , Expected Sync Command = $NUM , Actual Sync Reply = $NUM )
+ciod : generated $NUM core files for program IMB-MPI1.2KB_perf
+$NUM torus receiver y- input pipe error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+suppressing further interrupts of same type
+ciod : Error loading ALLc2_bgl : invalid or missing program image , No such file or directory
+fpr28 = $NUM $NUM $NUM $NUM
+ciod : Error loading np : invalid or missing program image , No such file or directory
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Thu Jul $NUM $NUM:$NUM:$NUM PDT $NUM
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Mon Oct $NUM $NUM:$NUM:$NUM PDT $NUM
+rts : kernel terminated for reason $NUM
+rts $FILE_PATH link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C X+ X- Y+ Y- Z+
+ciod : Error creating node map from file map.dat : $NUM file descriptor
+fpr7 = $NUM $NUM $NUM $NUM
+$NUM torus processor sram injection error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X- Y+ Y- Z+
+Problem communicating with service card , ido chip : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM . java.lang.IllegalStateException : while executing CONTROL Operation caught java.lang.RuntimeException : Communication error : ( DirectIDo for com.ibm.ido.DirectIDo object [ $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM@/$IPADDR with image version $NUM and card type $NUM ] is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = $NUM , Reply Sequence Number = -$NUM , timedOut = true , retries = $NUM , timeout = $NUM , Expected Op Command = $NUM , Actual Op Reply = -$NUM , Expected Sync Command = $NUM , Actual Sync Reply = -$NUM )
+ciod : Unexpected eof at line $NUM of node map file my_map.txt
+ciod : In packet from node $NUM.$NUM ( $MIDPLANE_ID-Ne-C:$SLOT_NO-$NODE_NO ) , message code $NUM is not $NUM or $NUM ( softheader = $NUM $NUM $NUM $NUM )
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Sun Sep $NUM $NUM:$NUM:$NUM PDT $NUM
+Controlling $FILE_PATH rows [ $NUM $NUM $NUM $NUM ]
+max number of outstanding prefetches.....$NUM
+mmcs_db_server has been started : $FILE_PATH --useDatabase BGL --dbproperties serverdb.properties --iolog $FILE_PATH --reconnect-blocks all --no-reconnect-blocks
+rts $FILE_PATH link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C X- Y+ Y- Z+ Z-
+PrepareForService is being done on this part ( mLctn ( $NODEBOARD_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) by cupps
+X- Y- Z+
+invalid operation exception ( int cnvt ) ... $NUM
+machine check interrupt ( bit = $NUM ) : L2 dcache unit read return parity error
+rts : kernel terminated for reason 1002rts : $NUM message header : too many packets , type = $NUM , cpu = $NUM , index = $NUM , total = $NUM , max =
+data storage interrupt
+fpr8 = $NUM $NUM $NUM $NUM
+rts $FILE_PATH link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X- Y+ Z-
+machine check status register : $NUM
+$NUM double-hummer alignment exceptions
+msr = $NUM dear = $NUM esr = $NUM fpscr = $NUM
+$NUM torus sender x- retransmission error ( s ) ( dcr $NUM ) detected and corrected
+disable all access to cache directory....$NUM
+rts panic! - stopping execution
+rts : kernel terminated for reason 1004rts : $NUM message header : expecting type $NUM , type = $NUM , cpu = $NUM , index = $NUM , total = $NUM
+failing info register : $NUM
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ X- Y+ Y- Z+
+ciod : pollControlDescriptors : Detected the debugger died .
+PrepareForService shutting down Link card ( mLctn ( $LINK_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) as part of Service Action $NUM
+ciod : Error loading $FILE_PATH invalid or missing program image , Permission denied
+Error getting detailed hw info for node , caught java.io.IOException : Problems with the chip , clear all resets
+EndServiceAction $NUM performed upon $NODEBOARD_ID by root
+X+ X- Y+ Y- Z+ Z- got : A C X+ X- Y+ Y- Z+ Z-
+ciod : Z coordinate $NUM exceeds physical dimension $NUM at line $NUM of node map file $FILE_PATH
+minus normalized number..................$NUM
+fpr21 = $NUM $NUM $NUM $NUM
+rts $FILE_PATH link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C X+ Y- Z+ Z-
+rts : kernel terminated for reason 1002rts : $NUM message header : too many packets , type = $NUM , cpu = $NUM , index = $NUM , total = $NUM , max = $NUM
+EndServiceAction $NUM performed upon $NODEBOARD_ID by orbeck1
+$NUM total interrupts . $NUM critical input interrupts . $NUM microseconds total spent on critical input interrupts , $NUM microseconds max time in a critical input interrupt .
+X+ X- Y+ Z+
+critical input interrupt enable...$NUM
+fpr5 = $NUM $NUM $NUM $NUM
+NodeCard temperature sensor chip $NODE_NO is not accessible
+ciod : Error creating node map from file $FILE_PATH Permission denied
+prefetch depth for PLB slave.............$NUM
+start prefetching........................$NUM
+EndServiceAction $NUM performed upon $RACK_ID by pjmccart
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Mon Sep $NUM $NUM:$NUM:$NUM PDT $NUM
+start retagging..........................$NUM
+size of DDR we are caching...............$NUM ( 512M )
+While reading FanModule caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+SerialNumber ( $NUM ) IpAddress ( $IPADDR ) Status ( A )
+external input interrupt ( unit = $NUM bit = $NUM ) : number of corrected SRAM errors has exceeded threshold
+fpr4 = $NUM $NUM $NUM $NUM
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for torus x- wire
+minus denormalized number................$NUM
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Fri Oct $NUM $NUM:$NUM:$NUM PDT $NUM
+mmcs_db_server has been started : $FILE_PATH --useDatabase BGL --dbproperties $FILE_PATH --iolog $FILE_PATH --reconnect-blocks all
+idoproxydb has been started : $Name : V1R1M0_250_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+PrepareForService is being done on this part ( mLctn ( $NODEBOARD_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) by gooding3
+rts $FILE_PATH link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X- Y+ Y- Z+ Z-
+rts : kernel terminated for reason 1002rts : $NUM message header : too many packets , type = $NUM , cpu = $NUM , index = $NUM , total = $NUM , m
+fpr0 = $NUM $NUM $NUM $NUM
+While initializing node card iDo machine with LP of $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM caught java.io.IOException : Could not contact iDo with LP = $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM and IP = /$IPADDR because java.lang.RuntimeException : Communication error : ( DirectIDo for Uninitialized DirectIDo for $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM@/$IPADDR is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = $NUM , Reply Sequence Number = -$NUM , timedOut = true , retries = $NUM , timeout = $NUM , Expected Op Command = $NUM , Actual Op Reply = -$NUM , Expected Sync Command = $NUM , Actual Sync Reply = -$NUM )
+idoproxydb hit ASSERT condition : ASSERT expression = ! ( RecvMsgHdr.ulLen > $NUM ) Source file = idomarshalerio.cpp Source line = $NUM Function = virtual int IdoMarshalerIo::RunRecv ()
+invalid operation exception ( sqrt ) ....... $NUM
+miscompare............$NUM
+failing info register : DDR Fail Info Register : $NUM
+memory manager address parity error..............$NUM
+error threshold , consider replacing the card
+ciod : Error loading $FILE_PATH program image too big , $NUM > $NUM
+Problem communicating with service card , ido chip : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM . java.lang.IllegalStateException : IDo is not in functional state -- currently in state COMMUNICATION_ERROR
+New ido chip inserted into the database : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM
+idoproxydb has been started : $Name : V1R1M0_243_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+Microloader Assertion
+EndServiceAction is restarting the LinkCards in midplane $MIDPLANE_ID as part of Service Action $NUM
+$NUM $NUM
+program interrupt : imprecise exception......$NUM
+disable flagging of DDR UE's as major internal error.$NUM
+ciod : In packet from node $NUM.$NUM ( $MIDPLANE_ID-Nf-C:$SLOT_NO-$NODE_NO ) , message code $NUM is not $NUM or $NUM ( softheader = $NUM $NUM $NUM $NUM )
+$NUM torus receiver x+ input pipe error ( s ) ( dcr $NUM ) detected and corrected
+ciod : Error reading message prefix after LOAD_MESSAGE on CioStream socket to $IPADDR:$NUM : Link has been severed
+kernel panic
+capture first directory correctable error address..$NUM
+rts $FILE_PATH link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C X+ X- Y+ Y- Z-
+idoproxydb hit ASSERT condition : ASSERT expression = $NUM Source file = idotransportmgr.cpp Source line = $NUM Function = int IdoTransportMgr::SendPacket ( IdoUdpMgr* , BglCtlPavTrace* )
+ciod : Error reading message prefix on CioStream socket to $IPADDR:$NUM , Link has been severed
+PrepareForService is being done on this rack ( $RACK_ID ) by pjmccart
+$NUM tree receiver $NUM in re-synch state event ( s ) ( dcr $NUM ) detected
+ddr : Unable to steer rank = $NUM , symbol = $NUM - rank is already steering symbol $NUM . Due to multiple symbols being over the correctable error threshold , consider replacing the card
+pro
+ddr : Unable to steer rank = $NUM , symbol = $NUM - rank is already steering symbol $NUM . Due to multiple symbols being over the correctable e
+Torus non-recoverable error DCRs follow .
+Hardware monitor caught java.net.SocketException : Broken pipe and is stopping
+PrepareForService shutting down Node card ( mLctn ( $NODEBOARD_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) as part of Service Action $NUM
+rts $FILE_PATH link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X+ X- Y+ Z+
+Ido packet timeout
+program interrupt
+ciod : Error creating node map from file map.dat : No child processes
+instruction cache parity error corrected
+ciod : failed to read message prefix on control stream ( CioStream socket to $IPADDR:$NUM
+total of $NUM ddr error ( s ) detected and corrected over $NUM seconds
+ciod : Error reading message prefix after LOAD_MESSAGE on CioStream socket to $IPADDR : Link has been severed
+While initializing node card , ido with LP of $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM caught java.lang.NullPointerException
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Tue $NUM $NUM $NUM:$NUM:$NUM PST $NUM
+prefetch depth for core $NUM................$NUM
+Mount failed on $BGL_IO_ID , slept $NUM seconds , retrying ( $NUM )
+ciod : Unexpected eof at line $NUM of node map file $FILE_PATH
+rts $FILE_PATH link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X- Y- Z-
+rts $FILE_PATH link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X+ X- Y+ Y- Z+
+auxiliary processor.........................$NUM
+ciod : Error loading make : invalid or missing program image , No such file or directory
+ciod : In packet from node $NUM.$NUM ( $MIDPLANE_ID-Nd-C:$SLOT_NO-$NODE_NO ) , message code $NUM is not $NUM or $NUM ( softheader = $NUM $NUM $NUM $NUM )
+shutdown complete
+$NUM torus sender x+ retransmission error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+$NUM torus receiver x- input pipe error ( s ) ( dcr $NUM ) detected and corrected
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Thu Oct $NUM $NUM:$NUM:$NUM PDT $NUM
+$NUM torus non-crc error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+fpr15 = $NUM $NUM $NUM $NUM
+ciod : Error reading message prefix on CioStream socket to $IPADDR , Connection reset by peer
+Kill job $NUM timed out . Block freed .
+memory manager refresh contention................$NUM
+rts : kernel terminated for reason 1002rts : $NUM message header : too many packets , type = $NUM , cpu = $NUM , index = $NUM , total = $NUM
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ X- Y+ Y- Z-
+PrepareForService is being done on this part ( mLctn ( $NODEBOARD_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) by orbeck1
+guaranteed data cache block touch........$NUM
+L3 correctable errors exceeds threshold ( iar $NUM lr $NUM )
+ciod : Error loading $FILE_PATHD//ddcMDbglV : invalid or missing program image , Permission denied
+ciod : generated $NUM core files for program $FILE_PATHD//ddcMDbglV
+wait state enable.................$NUM
+idoproxydb has been started : $Name : V1R1M0_246_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+rts : $NUM message header : index $NUM greater than total $NUM ( softheader = $NUM $NUM $NUM $NUM ) PSR0 = $NUM PSR1 = $NUM PRXF = $NUM PIXF = $NUM
+$NUM tree receiver $NUM in re-synch state event ( s ) ( dcr $NUM ) detected over $NUM seconds
+disable trace broadcast..................$NUM
+regctl scancom interface.........................$NUM
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ Y+ Y- Z-
+While setting fan speed caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+external input interrupt ( unit = $NUM bit = $NUM ) : torus sender y- retransmission error was corrected
+instruction plb error.............$NUM
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ Y+ Z-
+PrepareForService shutting down LinkCard ( mLctn ( $LINK_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) as part of Service Action $NUM
+ciodb exited abnormally due to signal : Aborted
+capture first EDRAM correctable error address..$NUM
+enabled exception summary................$NUM
+ciod : Error loading $FILE_PATHN//torus-latency.rts : invalid or missing program image , No such file or directory
+L3 $NUM status register : $NUM
+max = $NUM
+Problem communicating with node card , iDo machine with LP of $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.RuntimeException : Communication error : ( DirectIDo for com.ibm.ido.DirectIDo object [ $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM@/$IPADDR with image version $NUM and card type $NUM ] is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = $NUM , Reply Sequence Number = -$NUM , timedOut = true , retries = $NUM , timeout = $NUM , Expected Op Command = $NUM , Actual Op Reply = -$NUM , Expected Sync Command = $NUM , Actual Sync Reply = -$NUM )
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for torus y+ wire
+capture first EDRAM uncorrectable error address..$NUM
+$NUM torus receiver z+ input pipe error ( s ) ( dcr $NUM ) detected and corrected
+correctable errors exceeds threshold ( iar $NUM lr $NUM )
+ciod : LOGIN chdir ( pwd ) failed : No such file or directory
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Tue Aug $NUM $NUM:$NUM:$NUM PDT $NUM
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ Y+ Y- Z+
+fpr12 = $NUM $NUM $NUM $NUM
+number of correctable errors detected in L3 directories...$NUM
+idoproxydb has been started : $Name : V1R1M0_248_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ X- Y- Z+
+ciod : Unexpected eof at line $NUM of node map file map.dat
+ciod : Error reading message prefix on CioStream socket to $IPADDR , Link has been severed
+$NUM torus sender z+ retransmission error ( s ) ( dcr $NUM ) detected and corrected
+While setting fan speed caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+instruction address space.........$NUM
+PrepareForService is being done on this rack ( $RACK_ID ) by root
+data cache flush parity error detected . attempting to correct
+BGLMaster has been started : $FILE_PATH --consoleip $IPADDR --consoleport $NUM --configfile bglmaster.init
+idoproxy communication failure : socket closed
+e error threshold , consider replacing the card
+ciod : T coordinate $NUM exceeds physical dimension $NUM at line $NUM of node map file $FILE_PATH
+idoproxydb has been started : $Name : V1R1M0_252_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+ciod : Error loading $FILE_PATHN//bandwidth.rts : invalid or missing program image , No such file or directory
+total of $NUM ddr error ( s ) detected and corrected
+state machine....................................$NUM
+$NUM $NUM subnets and $NUM addresses to $NUM
+ciodb has been restarted .
+PrepareForService is being done on this part ( mLctn ( $NODEBOARD_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) by pjmccart
+ACTIVE . No temperature error . Temperature Limit Error Latch is clear . PGOOD is asserted . PGOOD error latch is clear . MPGOOD is OK . MPGOOD error latch is clear . The $NUM.$NUM volt rail is OK . The $NUM.$NUM volt rail is OK .
+ddr : Unable to steer rank = $NUM , symbol = $NUM - rank is already steering symbol $NUM . Due to multiple symbols being over the correctable
+BglIdoChip table has $NUM IDOs with the same IP address ( $IPADDR )
+uncorrectable error detected in directory $NUM....$NUM
+rts $FILE_PATH link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X- Y- Z+ Z-
+machine state register : $NUM
+rts : kernel terminated for reason 1002rts : $NUM message header : too many packets , type = $NUM , cpu = $NUM , index = $NUM , total = $NUM ,
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ X- Y+ Z-
+rts $FILE_PATH link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C X+ Y+ Y- Z-
+Missing reverse cable : Cable $LINK_ID $NUM E ( $SLOT_NO ) -- > $LINK_ID $NUM D ( $SLOT_NO ) is present BUT the reverse cable $LINK_ID $NUM E ( $SLOT_NO ) -- > $LINK_ID $NUM D ( $SLOT_NO ) is missing
+DeclareServiceNetworkCharacteristics has been run with the force option but the $NUM is not empty
+monitor caught java.lang.UnsupportedOperationException : power module $NODE_NO not present and is stopping
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for torus y- wire , suppressing further interrupts of same type
+Target = ido://F$FILE_PATH Message = JtagId All all zeros , power good may $NUM low
+X+ X- Y- Z-
+iar $NUM dear $NUM
+close EDRAM pages as soon as possible....$NUM
+NodeCard power module $NODE_NO is not accessible
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Tue Nov $NUM $NUM:$NUM:$NUM PST $NUM
+size of scratchpad portion of L3.........$NUM ( 0M )
+force $FILE_PATH alignment...............$NUM
+ciod : In packet from node $NUM.$NUM ( $NODE_ID ) , message still ready for node $NUM ( softheader = $NUM $NUM $NUM $NUM )
+Problem communicating with link card iDo machine with LP of $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM , caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.RuntimeException : Communication error : ( DirectIDo for com.ibm.ido.DirectIDo object [ $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM@/$IPADDR with image version $NUM and card type $NUM ] is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = $NUM , Reply Sequence Number = -$NUM , timedOut = true , retries = $NUM , timeout = $NUM , Expected Op Command = $NUM , Actual Op Reply = -$NUM , Expected Sync Command = $NUM , Actual Sync Reply = -$NUM )
+While reading FanModule caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+PrepareForService is being done on this part ( mLctn ( $LINK_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) by pjmccart
+machine state register : machine state register : machine state register : machine state register : machine state register : machine
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Fri Aug $NUM $NUM:$NUM:$NUM PDT $NUM
+While reading FanModule caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+fpr27 = $NUM $NUM $NUM $NUM
+$NUM ddr errors ( s ) detected and corrected on rank $NUM , symbol $NUM , bit $NUM
+NodeCard is not fully functional
+Missing reverse cable : Cable $LINK_ID $NUM F ( $SLOT_NO ) -- > $LINK_ID $NUM C ( $SLOT_NO ) is present BUT the reverse cable $LINK_ID $NUM F ( $SLOT_NO ) -- > $LINK_ID $NUM C ( $SLOT_NO ) is missing
+Power Good signal deactivated : $MIDPLANE_ID-N11 . A service action may $NUM required .
+$NUM floating point alignment exceptions
+Found invalid node ecid in processor card slot $SLOT_NO , ecid $NUM
+ciod : X coordinate $NUM exceeds physical dimension $NUM at line $NUM of node map file my_map.txt
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Thu $NUM $NUM $NUM:$NUM:$NUM PST $NUM
+lr = $NUM cr = $NUM xer = $NUM ctr = $NUM
+ciod : generated $NUM core files for program IMB-MPI1.4KB_perf
+ciod : Error creating node map from file $FILE_PATH Device or resource busy
+plus infinity............................$NUM
+Node card VPD check : missing $NODE_NO node , VPD ecid $NUM in processor card slot $SLOT_NO
+fpr10 = $NUM $NUM $NUM $NUM
+NodeCard VPD chip is not accessible
+$NUM torus sender y- retransmission error ( s ) ( dcr $NUM ) detected and corrected
+exception summary........................$NUM
+$NUM torus receiver sram $NUM error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+machine check interrupt ( bit = $NUM ) : L2 DCU read error
+PrepareForService shutting down NodeCard ( mLctn ( $NODEBOARD_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) as part of Service Action $NUM
+rror threshold , consider replacing the card
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ X- Y+ Z+
+No power module $NODE_NO found found on link card
+machine check : i-fetch......................$NUM
+L3 major internal error
+mmcs_server exited normally with exit code $NUM
+fpr31 = $NUM $NUM $NUM $NUM
+ciod : Error loading -mode VN : invalid or missing program image , No such file or directory
+ciod : Error loading aleamr.bgl-mpxlC-opt.$NUM.ex : invalid or missing program image , Exec format error
+MidplaneSwitchController::parityAlignment () pap failed : $LINK_ID-$NODE_NO-C , status = $NUM $NUM
+summary...........................$NUM
+$NUM torus sender z- retransmission error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+memory manager RMW buffer parity.................$NUM
+external input interrupt ( unit = $NUM bit = $NUM ) : torus sender z- retransmission error was corrected
+Error getting detailed hw info for node , caught java.io.IOException : Problems with the chip , could not pull all resets
+mmcs_db_server has been started : $FILE_PATH --useDatabase BGL --dbproperties $NUM.properties --iolog $FILE_PATH --reconnect-blocks all --shutdown-timeout $NUM
+program interrupt : unimplemented operation..$NUM
+idoproxydb hit ASSERT condition : ASSERT expression = ! ( nMsgLen > $NUM ) Source file = idomarshalerio.cpp Source line = $NUM Function = int IdoMarshalerRecvBuffer::ReadBlock ( IdoMsg::IdoMsgHdr*& )
+fpr14 = $NUM $NUM $NUM $NUM
+ciod : generated $NUM core files for program $FILE_PATHbg$FILE_PATH
+data store interrupt caused by icbi.........$NUM
+$NUM torus receiver z- input pipe error ( s ) ( dcr $NUM ) detected and corrected
+ciod : generated $NUM core files for program IMB-MPI1.2KB_func
+core configuration register : $NUM
+mmcs_server exited abnormally due to signal : Aborted
+Starting SystemController
+invalid ( Inf-Inf ) ........................ $NUM
+program interrupt : privileged instruction...$NUM
+qw trapped............$NUM
+X+ X- Y- Z+ Z-
+ciod : Error creating node map from file my_map.txt : Argument list too long
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ X- Y+ Z+ Z-
+instruction address : $NUM
+dbcr0 = $NUM dbsr = $NUM ccr0 = $NUM
+ciod : Error opening node map file map.dat , No such file or directory
+sym $NUM , at $NUM , mask $NUM
+PrepareForService is being done on this part ( mLctn ( $NODEBOARD_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) by smith386
+$NUM torus sender y+ retransmission error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+ciod : Error loading $FILE_PATHs//broadcast.rts : invalid or missing program image , No such file or directory
+fpr11 = $NUM $NUM $NUM $NUM
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for torus x- wire , suppressing further interrupts of same type
+ddrSize == $NUM*$NUM*$NUM || ddrSize == $NUM*$NUM*$NUM
+ciod : Error loading allreduce_double_V1R1.rts : invalid or missing program image , No such file or directory
+ciod : Error reading message prefix on CioStream socket to $IPADDR , Connection timed out
+disable store gathering..................$NUM
+machine check interrupt ( bit = $NUM ) : $FILE_PATH read error $NUM
+ciod : cpu $NUM at treeaddr $NUM sent unrecognized message $NUM
+program interrupt : fp cr field ............. $NUM
+X+ X- Y+ Y- Z+ Z- got : C X+ X- Y+ Y- Z+ Z-
+fpr26 = $NUM $NUM $NUM $NUM
+Link PGOOD error latched on link card
+EndServiceAction $NUM performed upon $RACK_ID by orbeck1
+ciod : In packet from node $NUM.$NUM ( $MIDPLANE_ID-Nb-C:$SLOT_NO-$NODE_NO ) , message code $NUM is not $NUM or $NUM ( softheader = $NUM $NUM $NUM $NUM )
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Tue Jul $NUM $NUM:$NUM:$NUM PDT $NUM
+$NUM torus receiver y+ input pipe error ( s ) ( dcr $NUM ) detected and corrected
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Sat $NUM $NUM $NUM:$NUM:$NUM PST $NUM
+special purpose registers :
+$NUM : $NUM
+MailboxMonitor::serviceMailboxes () lib_ido_error : -$NUM unexpected socket error : Broken pipe
+ciod : failed to read message prefix on control stream ( CioStream socket to $IPADDR
+$NUM ddr error ( s ) detected and corrected on rank $NUM , symbol $NUM over $NUM seconds
+Target = ido://F$FILE_PATH Message = Invalid JtagId = $NUM Run environmental monitor to diagnose possible hardware failure .
+rts $FILE_PATH link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X+ X- Y- Z+ Z-
+EndServiceAction $NUM performed upon $NODEBOARD_ID by cupps
+correctable error detected in directory $NUM......$NUM
+Floating Point Status and Control Register : $NUM
+BGLMaster has been started : $FILE_PATH --consoleip $IPADDR --consoleport $NUM --configfile bglmaster.init --autorestart y --db2profile $FILE_PATH --dbproperties $NUM.properties
+rts $FILE_PATH link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X+ X- Y+ Z+ Z-
+Machine Check Status Register : $NUM
+Problem reading the ethernet arl entries fro the service card : java.lang.IllegalStateException : while executing I2C Operation caught java.lang.RuntimeException : Communication error : ( DirectIDo for com.ibm.ido.DirectIDo object [ $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM@/$IPADDR with image version $NUM and card type $NUM ] is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = $NUM , Reply Sequence Number = $NUM , timedOut = true , retries = $NUM , timeout = $NUM , Expected Op Command = $NUM , Actual Op Reply = $NUM , Expected Sync Command = $NUM , Actual Sync Reply = $NUM )
+Node card is not fully functional
+L1 DCACHE summary averages : #ofDirtyLines : $NUM out of $NUM #ofDirtyDblWord : $NUM out of $NUM
+rts $FILE_PATH link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X- Y+ Y- Z-
+ciod : Error reading message prefix after LOAD_MESSAGE on CioStream socket to $IPADDR : Connection reset by peer
+X- Y+ Y- Z+ Z-
+Error : unable to mount filesystem
+general purpose registers :
+enable divide-by-zero exceptions.........$NUM
+write buffer commit threshold............$NUM
+external input interrupt ( unit = $NUM bit = $NUM ) : tree header with no target waiting
+$NUM torus processor sram reception error ( s ) ( dcr $NUM ) detected and corrected
+While reading FanModule caught java.lang.IllegalStateException : while executing I2C Operation caught java.net.SocketException : Broken pipe
+r12 = $NUM r13 = $NUM r14 = $NUM r15 = $NUM
+memory manager refresh counter timeout...........$NUM
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Wed Jun $NUM $NUM:$NUM:$NUM PDT $NUM
+fpr22 = $NUM $NUM $NUM $NUM
+DeclareServiceNetworkCharacteristics has been run but the $NUM is not empty
+While reading FanModule caught java.lang.IllegalStateException : while executing I2C Operation caught java.lang.IllegalStateException : client not in a usable state because java.lang.IllegalStateException : client not in a usable state because java.net.SocketException : Broken pipe
+$NUM torus non-crc error ( s ) ( dcr $NUM ) detected and corrected
+correctable error.....$NUM
+parity error in write buffer...................$NUM
+r24 = $NUM r25 = $NUM r26 = $NUM r27 = $NUM
+r20 = $NUM r21 = $NUM r22 = $NUM r23 = $NUM
+Lustre mount FAILED : $BGL_IO_ID : point $FILE_PATH
+While initializing link card iDo machine with LP of $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM caught java.io.IOException : Could not contact iDo with LP = $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM and IP = /$IPADDR because java.lang.RuntimeException : Communication error : ( DirectIDo for Uninitialized DirectIDo for $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM@/$IPADDR is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = $NUM , Reply Sequence Number = -$NUM , timedOut = true , retries = $NUM , timeout = $NUM , Expected Op Command = $NUM , Actual Op Reply = -$NUM , Expected Sync Command = $NUM , Actual Sync Reply = -$NUM )
+PrepareForService is being done on this Midplane ( mLctn ( $MIDPLANE_ID ) , mCardSernum ( $NUM )) by orbeck1
+Power Good signal deactivated : $MIDPLANE_ID-N10 . A service action may $NUM required .
+Exception Syndrome Register : $NUM
+idoproxydb has been started : $Name : V1R1 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+imprecise machine check...........$NUM
+fpr17 = $NUM $NUM $NUM $NUM
+Error sending packet on tree network , packet at address $NUM is not aligned
+parity error in bank $NUM.........................$NUM
+no ethernet link
+$NUM torus receiver z- input pipe error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+rts assertion failed : `personality- > version == BGLPERSONALITY_VERSION' in `void start () ' at start.$NUM:$NUM
+OK .
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Wed Sep $NUM $NUM:$NUM:$NUM PDT $NUM
+ciod : Error loading allreduce_int_V1R1.rts : invalid or missing program image , No such file or directory
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Wed Aug $NUM $NUM:$NUM:$NUM PDT $NUM
+rts $FILE_PATH link training failed : wanted : C X+ X- Y+ Y- Z+ Z- got : C X+ Y+ Y- Z+
+EndServiceAction $NUM performed upon $RACK_ID by root
+rts : kernel terminated for reason 1001rts : $NUM message header : invalid cpu , type = $NUM , cpu = $NUM , index = $NUM , total = $NUM
+Problem communicating with service card , ido chip : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM . java.io.IOException : Could not find EthernetSwitch on port:address $NUM:$NUM
+rts $FILE_PATH link training failed : wanted : A C X+ X- Y+ Y- Z+ Z- got : A C X+ Y- Z+ Z-
+uncorrectable error...$NUM
+ciod : Error creating node map from file map.dat : $NUM address
+L3 $NUM control register : $NUM
+rts $FILE_PATH link training failed : wanted : B C X+ X- Y+ Y- Z+ Z- got : B C X+ X- Y+ Y- Z-
+ciod : generated $NUM core files for program IMB-MPI1.1MB_perf
+EndServiceAction $NUM performed upon $MIDPLANE_ID-N by bertsch2
+exception syndrome register : $NUM
+ciod : generated $NUM core files for program IMB-MPI1.2MB
+ciod : Y coordinate $NUM exceeds physical dimension $NUM at line $NUM of node map file $FILE_PATH
+Running as background command
+r08 = $NUM r09 = $NUM r10 = $NUM r11 = $NUM
+ciod : generated $NUM core files for program IMB-MPI1.512KB_perf
+EndServiceAction is restarting the Node cards in Midplane $MIDPLANE_ID as part of Service Action $NUM
+fpr9 = $NUM $NUM $NUM $NUM
+X+ X- Y+ Y- Z+ Z- got : C X- Y+ Y- Z+ Z-
+machine check interrupt ( bit = $NUM ) : L2 dcache unit write data parity error
+PrepareForService is being done on this part ( mLctn ( $LINK_ID ) , mCardSernum ( $NUM ) , mLp ( $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ) , mIp ( $IPADDR ) , mType ( $NUM )) by root
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Tue Oct $NUM $NUM:$NUM:$NUM PDT $NUM
+critical input interrupt ( unit = $NUM bit = $NUM ) : warning for torus z- wire , suppressing further interrupts of same type
+capture first EDRAM parity error address..$NUM
+EndServiceAction $NUM performed upon $NODEBOARD_ID by pjmccart
+$NUM L3 EDRAM error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+fpr30 = $NUM $NUM $NUM $NUM
+ciod : Error loading $FILE_PATHs//bandwidth.rts : invalid or missing program image , No such file or directory
+program interrupt : illegal instruction......$NUM
+monitor caught java.lang.IllegalStateException : while executing I2C Operation caught java.net.SocketException : Broken pipe and is stopping
+Problem reading the ethernet arl entries fro the service card : java.lang.IllegalStateException : while executing I2C Operation caught java.lang.RuntimeException : Communication error : ( DirectIDo for com.ibm.ido.DirectIDo object [ $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM@/$IPADDR with image version $NUM and card type $NUM ] is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = $NUM , Reply Sequence Number = -$NUM , timedOut = true , retries = $NUM , timeout = $NUM , Expected Op Command = $NUM , Actual Op Reply = -$NUM , Expected Sync Command = $NUM , Actual Sync Reply = -$NUM )
+r04 = $NUM r05 = $NUM r06 = $NUM r07 = $NUM
+i-cache parity error..............$NUM
+reserved.................................$NUM
+$NUM torus sender sram $NUM error ( s ) ( dcr $NUM ) detected and corrected
+idoproxydb has been started : $Name : V1R2M0_460_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+enable underflow exceptions..............$NUM
+fpr18 = $NUM $NUM $NUM $NUM
+ciod : Error reading message prefix after VERSION_MESSAGE on CioStream socket to $IPADDR : Link has been severed
+idoproxydb has been started : $Name : V1R1M2_254_2005 $ Input parameters : -enableflush -loguserinfo $NUM.properties BlueGene1
+$NUM torus receiver z+ input pipe error ( s ) ( dcr $NUM ) detected and corrected over $NUM seconds
+machine state register :
+ciod : Error loading $FILE_PATH not a CNK program image
+fpr13 = $NUM $NUM $NUM $NUM
+ciod : Error creating node map from file $FILE_PATH $NUM file descriptor
+MidplaneSwitchController performing bit sparing on $LINK_ID-$NODE_NO-C bit $NUM
+, max = $NUM
+Problem communicating with node card , iDo machine with LP of $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM caught java.lang.IllegalStateException : while executing CONTROL Operation caught java.lang.RuntimeException : Communication error : ( DirectIDo for com.ibm.ido.DirectIDo object [ $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM@/$IPADDR with image version $NUM and card type $NUM ] is in state = COMMUNICATION_ERROR , sequenceNumberIsOk = false , ExpectedSequenceNumber = $NUM , Reply Sequence Number = -$NUM , timedOut = true , retries = $NUM , timeout = $NUM , Expected Op Command = $NUM , Actual Op Reply = -$NUM , Expected Sync Command = $NUM , Actual Sync Reply = -$NUM )
+Target = ido://F$FILE_PATH Message = Invalid JtagId = $NUM
+X+ X- Y+ Y- Z-
+ciod : for node $NUM , incomplete data written to core file core.$NUM
+$NUM torus receiver y- input pipe error ( s ) ( dcr $NUM ) detected and corrected
+MidplaneSwitchController::parityAlignment () pap failed : $LINK_ID-$NODE_NO-D , status = $NUM $NUM
+guaranteed instruction cache block touch.$NUM
+lr:$NUM cr:$NUM xer:$NUM ctr:$NUM
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Thu Sep $NUM $NUM:$NUM:$NUM PDT $NUM
+com.ibm.bgldevices.BulkPowerModule with VPD of com.ibm.bgldevices.BulkPowerModule$VpdReply : IBM Part Number : 53P5763 , Vendor : Cherokee International , Vendor Serial Number : $NUM , Assembly Revision :  .A , Code Revision : B.$NUM , Manufacture Date : during week $NUM of $NUM , Manufacture Location : Tustin , $NUM , USA is usable but not a supported version
+address parity error..$NUM
+Ido chip status changed : $NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM:$NUM ip = $IPADDR v = $NUM t = $NUM status = M Sat Sep $NUM $NUM:$NUM:$NUM PDT $NUM
